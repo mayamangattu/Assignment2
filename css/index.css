@@ -1,0 +1,41 @@
+.banner{
+    background-image : url('../assets/banner.png');
+    height: 480px;
+     width:110%;    
+}
+.login{
+    color: #fff;
+    
+}
+.createacc{
+        color:#fff;
+        border: solid 1px #fff;
+}
+
+.message{
+    color:#fff;
+    font-size: 30px;
+}
+.elogo{
+        color: red;
+        background-color: white;
+        width: 90px;
+        height :90px;
+        border-radius: 80%;
+        font-size: 50px;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        padding-top: 10px;
+}
+  .heading {
+        height: 24px;
+        font-size: 25px;
+        color:  #192f60;
+           } 
+           
+    .subhead { height: 25px;
+        font-size: 16px;
+        color: #192f60;
+         
+             }
+            
